@@ -1,0 +1,26 @@
+.title_type_section {
+  font-size: 40px;
+  font-weight: bold;
+  margin: 0 0 20px;
+  text-align: center;
+}
+
+@media screen and (max-width: 990px) {
+  .title_type_section {
+    font-size: 35px;
+    margin-bottom: 15px;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .title_type_section {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .title_type_section {
+    font-size: 22px;
+  }
+}

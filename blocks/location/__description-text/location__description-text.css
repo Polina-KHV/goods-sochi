@@ -1,0 +1,13 @@
+.location__description-text {
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 20px;
+  margin: 0;
+}
+
+@media screen and (max-width: 990px) {
+  .location__description-text {
+    font-size: 12px;
+    line-height: 17px;
+  }
+}

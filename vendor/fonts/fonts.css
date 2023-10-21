@@ -1,0 +1,66 @@
+/* @font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("Inter-Regular.woff2?v=3.19") format("woff2"),
+       url("Inter-Regular.woff?v=3.19") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("Inter-Bold.woff2?v=3.19") format("woff2"),
+       url("Inter-Bold.woff?v=3.19") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("Inter-Black.woff2?v=3.19") format("woff2"),
+       url("Inter-Black.woff?v=3.19") format("woff");
+} */
+
+
+@font-face {
+  font-family: 'Geologica';
+  src: url('Geologica-Regular.eot');
+  src: local('Geologica Regular'), local('Geologica-Regular'),
+      url('Geologica-Regular.eot?#iefix') format('embedded-opentype'),
+      url('Geologica-Regular.woff2') format('woff2'),
+      url('Geologica-Regular.woff') format('woff'),
+      url('Geologica-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+  @font-face {
+    font-family: 'Geologica';
+    src: url('Geologica-Bold.eot');
+    src: local('Geologica Bold'), local('Geologica-Bold'),
+        url('Geologica-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Geologica-Bold.woff2') format('woff2'),
+        url('Geologica-Bold.woff') format('woff'),
+        url('Geologica-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+  }
+
+@font-face {
+  font-family: 'Geologica';
+  src: url('Geologica-Black.eot');
+  src: local('Geologica Black'), local('Geologica-Black'),
+      url('Geologica-Black.eot?#iefix') format('embedded-opentype'),
+      url('Geologica-Black.woff2') format('woff2'),
+      url('Geologica-Black.woff') format('woff'),
+      url('Geologica-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}

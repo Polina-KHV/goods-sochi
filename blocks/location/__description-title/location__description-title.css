@@ -1,0 +1,11 @@
+.location__description-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+}
+
+@media screen and (max-width: 990px) {
+  .location__description-title {
+    font-size: 16px;
+  }
+}

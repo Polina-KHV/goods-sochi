@@ -1,0 +1,25 @@
+.menu__text {
+  margin: 0;
+  font-size: 40px;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: #000 0px 5px 20px;
+}
+
+@media screen and (max-width: 990px) {
+  .menu__text {
+    font-size: 35px;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .menu__text {
+    font-size: 28px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .menu__text {
+    font-size: 22px;
+  }
+}

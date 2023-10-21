@@ -1,0 +1,17 @@
+.location__description {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+@media screen and (max-width: 990px) {
+  .location__description {
+    row-gap: 8px;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .location__description {
+    row-gap: 5px;
+  }
+}
